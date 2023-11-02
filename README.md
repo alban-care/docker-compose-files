@@ -27,4 +27,3 @@ docker compose down
 # Specifying a path to a single Compose file
 docker compose -f docker-compose.yml start
 ```
-
